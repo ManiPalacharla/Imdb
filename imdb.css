@@ -1,0 +1,175 @@
+imdb.css
+.navbar-brand{
+    font-size:20px;
+    font-weight: 500;
+    font-family: "Caveat";
+    background-color: yellow;
+    
+
+}
+.navbar-img{
+    height: 40px;
+    width: 70px;
+    padding: 1px;
+    margin-left: 20px;
+}
+#imdb-pro{
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 500;
+    margin-right: 15px;
+
+}
+.search-bar{
+    width: 130vh;
+    height: 7vh;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.btn{
+    background-color: rgb(240, 161, 14);
+    border-radius: 5px;
+    height: 40px;
+    margin-right: 15px;
+
+
+
+}
+.youtube{
+    text-align: left;
+    height: 510px;
+    width: 1000px;
+
+    
+
+}
+.text-content{
+    color: orangered;
+    font-size: 10px;
+    font-weight: 500;
+    
+    
+}
+.side-Y{
+    color: black;
+    
+    font-size: 30px;
+    margin-left: 10px;
+}
+.bac-con{
+    height: 100%;
+    width: 400px;
+}
+.side-z{
+    color: red;
+    font-size: 20px;
+
+}
+.m-container{
+
+    margin-left: 10px;
+}
+.t-centee{
+    margin-left: 10px;
+}
+.head-E{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.fab{
+    color: red;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.h-container{
+
+    height: 150px;
+    text-align: center;
+    color: orangered;
+}
+    
+    
+
+.head-t{
+    font-size: 20px;
+    color: yellowgreen;
+}
+.signi-c{
+    height: 200px;
+    width: 1300px;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+    
+    
+}
+.sign-con{
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    margin-top: 10px;
+}
+.btn{
+    background-color: rgb(243, 243, 12);
+    width: 150px;
+    height: 40px;  
+    border-radius: 5px; 
+    margin-top: 10px;
+}
+.para{
+    font-size: 15px;
+    font-weight: 600;
+}
+.favorites-con{
+    height: 500px;
+    width: 250px;
+    background-color: darkgrey;
+    margin-left: 20px;
+}
+.watch{
+    text-align: center;
+    font-weight: 500;
+}
+.moreTO-w{
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.perfect{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.btn-1{
+    height: 40px;
+    width: 300px;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.theater{
+    margin-left: 20px;
+    margin-top: 5px;
+    color: black;
+}
+.signi-cy{
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+    background-color: red;
+    margin-left: 750px;
+}
